@@ -2,3 +2,5 @@
 nome = "José Airton Patricio"
 print(nome)
 
+endereco= input("Qual o seu endereço; ")
+print(endereco)          
